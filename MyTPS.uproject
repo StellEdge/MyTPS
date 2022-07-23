@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E096C671-4169-9E50-9E55-6F98C6E6D3F7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyTPS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
